@@ -1,3 +1,3 @@
 # LinuxOS
 
-Try to learn Linux OS buy my self.
+Try to learn Linux OS by my self.
